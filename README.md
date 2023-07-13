@@ -29,7 +29,7 @@ Insights for entrepreneurs, investors, and enthusiasts of Shark Tank India.
 
 ## Authors
 
-🔆 [@Hrishikesh Yadav](https://www.github.com/hrishikesh332)
+Durgesh Kumar Sahu
 
 
 
