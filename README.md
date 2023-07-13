@@ -10,29 +10,27 @@ Welcome to the exhilarating world of Shark Tank India Season 1! Dive into this w
 
 ## 🌟 Focus area of analysis -
 
-🔍 Explore the Wealth of Insights
+🔍 Discover Valuable Insights
 
-📊 Data Driven Decision Making
+📊 Drive Data-Driven Decision Making
 
 🚀 Empower Your Business Strategy
 
 ## 📈 Analytical Points Covered -
 
-Will be added soon
+Coming Soon
 
 ## ✔️ In Beneficial Terms -
-Explore visualizations that bring the investment dynamics to life, showcasing the relationship between valuations, investments, and equity offerings.
+Experience captivating visualizations that bring investment dynamics to life, revealing the relationship between valuations, investments, and equity offerings.
 
-Identify key patterns and trends to inform your business strategy and investment decisions.
+Uncover crucial patterns and trends to shape your business strategy and investment choices.
 
-Insights for entrepreneurs, investors, and enthusiasts of Shark Tank India.
+Gain valuable insights for entrepreneurs, investors, and enthusiasts of Shark Tank India.
 
 ## Authors
 
 Durgesh Kumar Sahu
 
-
-
 ## Feedback
 
-If you have any feedback, please reach out to us at **hrishikesh3321@gmail.com**
+If you have any feedback, please reach out to us at **durgesh.nitraipur@gmail.com**
