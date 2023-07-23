@@ -4,10 +4,6 @@
 
 Welcome to the exhilarating world of Shark Tank India Season 1! Dive into this world where we unveil the secrets behind the most investment pitches and uncover the strategic dynamics between entrepreneurs and the sharks 🦈
 
-## Do Check Out Notebook 📓:
-
-[![EDA-Shark-Tank-India-S1](https://img.shields.io/badge/EDA-152238?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/hrishikeshyadav/eda-on-shark-tank-india-s1)
-
 ## 🌟 Focus area of analysis -
 
 🔍 Discover Valuable Insights
