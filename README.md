@@ -40,4 +40,4 @@ Durgesh Kumar Sahu
 
 ## Feedback
 
-If you have any feedback, please reach out to us at **durgesh.nitraipur@gmail.com**
+If you have any feedback, please reach out to me at **durgesh.nitraipur@gmail.com**
